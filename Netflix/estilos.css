@@ -1,0 +1,14 @@
+.menu{
+    background-color: rgb(0, 0, 0);
+}
+.fondo{
+    background-image: url("./img/fondoo.webp");
+    background-position: top center;
+    background-size:cover;
+    background-attachment:fixed;
+ padding: 25%;
+
+}
+.colorfooter{
+    background-color: black;
+}
